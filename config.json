@@ -1,0 +1,137 @@
+{
+    "img_version": {
+        "jp": "2017-08-20T18:00:00+0800",
+        "cn": "2017-01-01T00:00:00+0800",
+        "tw": "2017-01-01T00:00:00+0800",
+        "us": "2017-01-01T00:00:00+0800"
+    },
+    "file_mapper": {
+        "data": [],
+        "img1": [
+            "Audio/Battle/",
+            "Audio/BGM/",
+            "Audio/ResidentSE/",
+            "Audio/ResourceSound/",
+            "Audio/SE/",
+            "AudioOld/",
+            "AudioOther/"
+        ],
+        "img2": [
+            "Audio/ChrVoice/",
+            "Audio/NoblePhantasm/",
+            "Audio/Servants/"
+        ],
+        "img3": [
+            "Image/AprilFool/",
+            "Image/Extella/"
+        ],
+        "img4": [
+            "Image/Back/",
+            "Image/Banner/",
+            "Image/BuffIcons/",
+            "Image/CharaGraphOption/",
+            "Image/ClassCard/",
+            "Image/ClassIcons/",
+            "Image/CommandSpell/",
+            "Image/Effect/",
+            "Image/Enemys/",
+            "Image/EquipFaces/",
+            "Image/EventReward/",
+            "Image/Faces/",
+            "Image/Image/",
+            "Image/Items/",
+            "Image/MasterFace/",
+            "Image/MasterFigure/",
+            "Image/Other/",
+            "Image/ShopBanners/",
+            "Image/SkillIcons/",
+            "Image/Terminal/"
+        ],
+        "img5": [
+            "Image/CharaFigure/",
+            "Image/NarrowFigure/",
+            "Image/Servants/"
+        ],
+        "img6": [
+            "Image/CharaGraph/"
+        ],
+        "img7": [
+            "Image2x/BuffIcons/",
+            "Image2x/Enemys/",
+            "Image2x/EquipFaces/",
+            "Image2x/Faces/",
+            "Image2x/Items/",
+            "Image2x/MasterFace/",
+            "Image2x/MasterFigure/",
+            "Image2x/Servants/",
+            "Image2x/SkillIcons/"
+        ],
+        "img8": [
+            "Image2x/AprilFool/",
+            "Image2x/CharaGraphOption/",
+            "Image2x/ClassCard/",
+            "Image2x/ClassIcons/",
+            "Image2x/Image/",
+            "Image2x/NarrowFigure/"
+        ],
+        "img9": [
+            "Image2x/Back/back0",
+            "Image2x/Back/back1",
+            "Image2x/Back/back2"
+        ],
+        "img10": [
+            "Image2x/Back/back3",
+            "Image2x/Back/back4"
+        ],
+        "img11": [
+            "Image2x/CharaFigure/1",
+            "Image2x/CharaFigure/2",
+            "Image2x/CharaFigure/3"
+        ],
+        "img12": [
+            "Image2x/CharaFigure/4",
+            "Image2x/CharaFigure/5",
+            "Image2x/CharaFigure/6"
+        ],
+        "img13": [
+            "Image2x/CharaFigure/7",
+            "Image2x/CharaFigure/8",
+            "Image2x/CharaFigure/9"
+        ],
+        "img14": [
+            "Image2x/CharaGraph/1",
+            "Image2x/CharaGraph/93"
+        ],
+        "img15": [
+            "Image2x/CharaGraph/2",
+            "Image2x/CharaGraph/94"
+        ],
+        "img16": [
+            "Image2x/CharaGraph/3",
+            "Image2x/CharaGraph/4",
+            "Image2x/CharaGraph/5",
+            "Image2x/CharaGraph/6"
+        ],
+        "img17": [
+            "Image2x/CharaGraph/7",
+            "Image2x/CharaGraph/8",
+            "Image2x/CharaGraph/90",
+            "Image2x/CharaGraph/95",
+            "Image2x/CharaGraph/96",
+            "Image2x/CharaGraph/97",
+            "Image2x/CharaGraph/98",
+            "Image2x/CharaGraph/99"
+        ],
+        "img18": [
+            "Font/",
+            "UI/",
+            "Video/"
+        ],
+        "img19": [],
+        "img20": [],
+        "img21": [],
+        "img22": [],
+        "img23": [],
+        "img24": []
+    }
+}
