@@ -3,6 +3,7 @@
 - [国服/CN](http://fgo.biligame.com) Release/発売日: Android:2016-10-13 iOS:2016-09-29
 - [台服/TW](https://fate-go.com.tw) Release/発売日: Android/iOS:2017-05-18
 - [美服/US](http://fate-go.us) Release/発売日: Android/iOS:2017-06-25
+- [韩服/KR](http://fgo.netmarble.com/) Release/発売日: Android/iOS:2017?
 
 - [1.5新章 Epic of Remnant](http://www.fate-go.jp/eor/)
 - [街机/Arcade](http://arcade.fate-go.jp/) 2018年予定
@@ -32,9 +33,12 @@
 # 官方媒体/Official SNS
 - [Twitter/JP](https://twitter.com/fgoproject)
 - [Twitter/US](https://twitter.com/FateGO_USA)
+- [Twitter/KR](https://twitter.com/FateGO_KR)
 - [Facebook/TW](https://www.facebook.com/FateGO.TW/)
 - [Facebook/US](https://www.facebook.com/FateGO.USA)
+- [Facebook/KR](https://www.facebook.com/FateGO.KR)
 - [微博/CN](http://weibo.com/fateGO)
+
 
 # 攻略&Wiki
 - [FGOWiki/CN](http://fgowiki.com/) 国服Wiki，数据全面，有翻译，有攻略和新闻，更新及时
